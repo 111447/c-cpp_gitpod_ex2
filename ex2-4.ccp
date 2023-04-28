@@ -8,9 +8,9 @@ int main()
     float a,b;
     
     printf("A=>");
-    scanf("%d",&a);
+    scanf("%f",&a);
     printf("B=>");
-    scanf("%d",&b);
+    scanf("%f",&b);
     printf("A+B=%f\n",a+b);
     printf("A-B=%f\n",a-b);
     printf("A*B=%f\n",a*b);
